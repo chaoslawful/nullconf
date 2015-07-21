@@ -1,0 +1,6 @@
+pcapy>=0.10.9
+impacket>=0.9.13
+netifaces>=0.10.4
+# only need in win32 env
+wmi
+
